@@ -68,7 +68,7 @@ pageEncoding="ISO-8859-1"%>
 
 					<div class="text-center">
 						<button type="submit" class="btn btn-primary">Register</button>
-						<a href="login.jsp" class="btn btn-primary">Login page</a>	
+						<!-- <a href="login.jsp" class="btn btn-primary">Login page</a> -->
 					</div>
 					
 				</form>

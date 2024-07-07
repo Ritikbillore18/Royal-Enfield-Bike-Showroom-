@@ -43,7 +43,6 @@
 
             <h2>GT 650</h2>
 
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur sint quia saepe. Quos quam laboriosam ea perferendis iure fuga suscipit magni nesciunt velit, maiores vel?</p>
 
             <h3>Choose your colour</h3>
 

@@ -52,6 +52,5 @@ pageEncoding="ISO-8859-1"%>
 			</div>
 		</div>
 	</div>
-	<%@ include file="includes/footer.jsp"%>
 </body>
 </html>

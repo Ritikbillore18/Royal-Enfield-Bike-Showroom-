@@ -35,8 +35,8 @@
         <ul class="nav flex-column">
           <li class="nav-item mb-2"><a href="login.jsp" class="nav-link p-0 text-muted">Login</a></li>
           <li class="nav-item mb-2"><a href="register.jsp" class="nav-link p-0 text-muted">Register</a></li>
-          <li class="nav-item mb-2"><a href="register" class="nav-link p-0 text-muted">Terms</a></li>
-          <li class="nav-item mb-2"><a href="login" class="nav-link p-0 text-muted">Conditions</a></li>
+          <li class="nav-item mb-2"><a href="index.jsp" class="nav-link p-0 text-muted">Terms</a></li>
+          <li class="nav-item mb-2"><a href="index.jsp" class="nav-link p-0 text-muted">Conditions</a></li>
           <li class="nav-item mb-2"><a href="motorcycle" class="nav-link p-0 text-muted">Test Ride</a></li>
         </ul>
       </div>

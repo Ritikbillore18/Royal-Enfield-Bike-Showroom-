@@ -51,8 +51,8 @@ if(cart_list !=null)
 
 	<div class="container">
 		<div class="d-flex py-3">
-			<h3>Total Price : ${(total>0)?dcf.format(total):0}</h3>
-			<a class="mx-3 btn btn-primary" href="#">check Outs</a>
+			<h3>Booking a Test Ride</h3>
+			<a class="mx-3 btn btn-primary" href="motorcycle.jsp">Add More</a>
 		</div>
 		<table class="table table-light">
 			<thead>
@@ -64,7 +64,7 @@ if(cart_list !=null)
 				</tr>
 			</thead>
 			<tbody>
-			<%if(cart_list != null)
+			<%if(cart_list != null)	
 			{
 				for(Cart c:cartProduct)
 				{%>
@@ -91,6 +91,5 @@ if(cart_list !=null)
 	</div>
 
 
-	<%@ include file="includes/footer.jsp"%>
 </body>
 </html>

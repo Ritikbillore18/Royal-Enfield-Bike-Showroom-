@@ -12,20 +12,18 @@
     font-family: sans-serif;
 
 }
-
+									
 .container1{
 
-    width: 100%;
+    width: 50%;
 
-    height: 100vh;
+    height: 50vh;
 
-    background-image: url("project-images/classic350/classic350darkstealthblack.png");
-
-    background-size: cover;
+    background-size: contain;
 
     background-position: center;
 
-    padding: 20px 10%;
+    padding: 10px 5%;
 
     transition: background-image 0.3s;
 

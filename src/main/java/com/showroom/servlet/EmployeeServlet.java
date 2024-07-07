@@ -60,7 +60,7 @@ public class EmployeeServlet extends HttpServlet {
 		{
 			e.printStackTrace();
 		}
-			response.sendRedirect("register.jsp");
+			response.sendRedirect("index.jsp");
 
 	}
 }

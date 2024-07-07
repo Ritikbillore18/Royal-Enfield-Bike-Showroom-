@@ -40,7 +40,7 @@
         <div id="result"></div>
 
         </div>
-        	<%@ include file="includes/footer.jsp"%>
+	<%@ include file="includes/footeer.jsp"%>
         
 </body>
 </html>
